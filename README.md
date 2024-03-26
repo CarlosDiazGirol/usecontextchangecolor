@@ -30,6 +30,7 @@ npm install para instalar todas las dependencias.
 │   └── ...
 ├── index.html
 
+
 ### 3. Qué tendrá cada archivo:
 - `main.jsx, app.css, index.css e index.html` se mantendrán sin cambios
 - `components/button.jsx`: Será el botón que hará que cambie el estado de `light` a `dark`
